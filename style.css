@@ -81,7 +81,7 @@ main {
 
 .slider_2 {
     display: flex;
-    align-items: center;
+    align-items: baseline;
     gap: 2.5rem;
 }
 
@@ -93,7 +93,7 @@ main {
 
 .slider_3 {
     display: flex;
-    align-items: center;
+    align-items: baseline;
     gap: 2.5rem;
     margin-bottom: 3rem;
 }
